@@ -1,0 +1,28 @@
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+div {
+   width:30vw; 
+   height: 30vh;
+   border: 1px solid black;
+   border-radius: 8px;
+   margin-bottom:5%;
+   
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 80%;
+
+}
+
+p{
+    text-align: center;
+}

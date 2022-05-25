@@ -1,0 +1,31 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+div {
+  width: 30vw;
+  height: 30vh;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-bottom: 5%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 80%;
+}
+
+p {
+  text-align: center;
+}
+/*# sourceMappingURL=index.css.map */
